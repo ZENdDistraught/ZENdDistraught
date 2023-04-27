@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ZENdDistraught
+- 👀 I’m interested in *reverse-engineering*, *pentest*, *website layout* and `in general everything related to programming and development`
+- 🌱 I’m currently learning ***`cpp`***, ***`python`***, ***`c#`***
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me `ilkafadeev@gmail.com`
